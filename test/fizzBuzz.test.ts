@@ -1,5 +1,5 @@
 describe("FizzBuzz", () => {
   it("should...", () => {
-    expect(parseInt("10")).toBe("10");
+    expect(parseInt("10")).toBe(10);
   });
 });
